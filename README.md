@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+QA Engineer (manual)
+
 <!--
 **VasiliySaveliev/VasiliySaveliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
